@@ -8,16 +8,6 @@
 	<link href="estilo/style.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
-	<header>
-		<div class="logo left"><a href="">Logomarca</a></div><!--logo-->
-			<nav class="desktop-right">
-				<ul>
-					<li><a href="">Home</a></li>
-					<li><a href="">Produtos</a></li>
-					<li><a href="">Carrinho</a></li>
-					<li><a href="">Contato</a></li>
-				</ul>
-			</nav>
-	</header>
+	
 </body>
 </html>
